@@ -1,6 +1,6 @@
 # spring-boot-api-gateway
 
-Spring Boot API Gateway using Zuul and Eureka Discovery Client.
+Spring Boot API Gateway using Zuul and registring in Service Registry.
 
 Related projects:
 * Service Registry (Discovery): https://github.com/anderssongs5/spring-boot-service-registry
